@@ -29,3 +29,5 @@ y para inicializarlo utilice
 git
 
 git init flow init
+
+al iniciar el git flow se me crean las ramas master y develop
